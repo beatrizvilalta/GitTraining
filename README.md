@@ -1,7 +1,7 @@
 # GitTraining
 A repository to keep my git practices.
 
-[clia na bonita ](github.com/beatrizvilalta)
+[clica na bonita](https://github.com/beatrizvilalta)
 
 *gabriel*
 
